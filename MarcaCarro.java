@@ -1,6 +1,6 @@
 package aula_java_01_10_atividades;
 
-public enum Carro {
+public enum MarcaCarro {
 	WOLKSVAGEN,
 	FIAT,
 	CHEVROLET,
